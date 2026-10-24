@@ -58,7 +58,7 @@ Si vas a utilizar la herramienta interactiva en Python:
 </p>
 1. Conecta la placa ESP32-S3 a la PC mediante el cable USB-C.
 2. Ejecuta el archivo script para instalar automáticamente las dependencias necesarias:
-   ```cmd
+
    Prerequistos.bat
 
 ---
