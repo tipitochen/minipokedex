@@ -1,4 +1,20 @@
-# Pokédex ESP32-S3 (Poke151) 🎮
+# MINI Pokédex ESP3 🎮
+
+
+Este proyecto es una Pokédex interactiva desarrollada para la placa de desarrollo **TENSTAR TS-ESP32-S3**
+<p align="center">
+  <img src="fotos/C.jpg" alt="Mini Pokédex Foto principal" width="800">
+</p>
+
+<p align="center">
+  <img src="fotos/A.jpg" alt="Mini Pokédex Foto A" width="45%">
+  <img src="fotos/B.jpg" alt="Mini Pokédex Foto B" width="45%">
+</p>
+
+<p align="center">
+  <img src="fotos/D.jpg" alt="Mini Pokédex Foto D" width="45%">
+  <img src="fotos/E.jpg" alt="Mini Pokédex Foto E" width="45%">
+</p>
 
 Este es un proyecto de fans para fans, que utiliza la **PokéAPI** y es sin fines de lucro.
 
