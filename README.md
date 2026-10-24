@@ -74,7 +74,7 @@ ARCHIVOS DE IMPRESIÓN 3D
 
 * **📖 Modo Manual:** Recorre la Pokédex ordenadamente paso a paso para consultar cada registro individual.
 * **🎲 Modo Random:** Selecciona y muestra un Pokémon completamente al azar.
-* **📊 Modo Sensor:** Muestra datos ambientales y de movimiento (temperatura, presión e inclinación) aprovechando los sensores integrados.
+* **📊 Modo WHO'S:** Mini juego de "¿Quien es este pokemon?"
 
 ---
    
