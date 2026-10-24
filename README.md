@@ -31,13 +31,11 @@ El repositorio incluye el código fuente en C++, los datos de los Pokémon y her
 ## 📂 Estructura del Repositorio
 
 * `poke151.ino`: Código fuente principal de la Pokédex para Arduino.
-* `pokemon_data.h`: Archivo de cabecera con la información y datos estructurados de los Pokémon.
-* `flasheador_pokedex.py`: Aplicación/script en Python para automatizar el flasheo del firmware en la placa.
-* `Prerequistos.bat`: Script ejecutable para instalar automáticamente las librerías necesarias de Python.
-* `arduino-cli.exe`: Herramienta de línea de comandos de Arduino integrada para compilar y flashear sin depender del IDE gráfico.
-* `libraries/`: Carpeta con las librerías requeridas para la compilación del proyecto.
-* `LICENSE.txt`: Términos de la licencia del proyecto.
-
+* `pokemon_data.h`: Archivo de cabecera con los datos estructurados de los Pokémon.
+* `flasheador_pokedex.py`: Aplicación/script en Python para automatizar el flasheo.
+* `Prerequistos.bat`: Script ejecutable para instalar automáticamente las librerías de Python.
+* `Mini pokedex.3mf`: Archivo de diseño 3D listo para laminar e imprimir la carcasa.
+* `libraries/`: Carpeta con las librerías requeridas para la compilación.
 ## ⚙️ Configuración e Instalación
 
 ### Opción 1: Subir desde Arduino IDE
