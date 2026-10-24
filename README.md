@@ -1,4 +1,4 @@
-# MINI Pokédex ESP3 🎮
+# MINI POKEDEX ESP32 🎮
 
 
 Este proyecto es una Pokédex interactiva desarrollada para la placa de desarrollo **TENSTAR TS-ESP32-S3**
