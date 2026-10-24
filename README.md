@@ -3,6 +3,10 @@
 Este es un proyecto de fans para fans, que utiliza la **PokéAPI** y es sin fines de lucro.
 
 Este proyecto es una Pokédex interactiva desarrollada para la placa de desarrollo **TENSTAR TS-ESP32-S3** (equipada con pantalla TFT de 1.14", sensor de presión/temperatura BMP280 y sensor inercial QMI8658C). 
+acá el enlace:
+[TENSTAR 16 mb  AliExpress](https://www.aliexpress.us/item/3256809703899160.html?spm=a2g0o.order_list.order_list_main.5.b3421802lGkqaE&gatewayAdapt=glo2usa)
+
+
 
 El repositorio incluye el código fuente en C++, los datos de los Pokémon y herramientas automatizadas en Python para facilitar la instalación y el flasheo del firmware.
 
@@ -17,15 +21,6 @@ El repositorio incluye el código fuente en C++, los datos de los Pokémon y her
 * `arduino-cli.exe`: Herramienta de línea de comandos de Arduino integrada para compilar y flashear sin depender del IDE gráfico.
 * `libraries/`: Carpeta con las librerías requeridas para la compilación del proyecto.
 * `LICENSE.txt`: Términos de la licencia del proyecto.
-
----
-
-## 🛠️ Requisitos de Hardware
-
-* Placa de desarrollo **TENSTAR TS-ESP32-S3** (ESP32-S3 con pantalla TFT ST7789 de 1.14", BMP280 y QMI8658C).
-* Cable USB-C con soporte para transferencia de datos.
-
----
 
 ## ⚙️ Configuración e Instalación
 
