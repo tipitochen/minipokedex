@@ -45,7 +45,8 @@ Si vas a utilizar la herramienta interactiva en Python:
    ```cmd
    Prerequistos.bat
 
+---
 
-   ARCHIVOS DE IMPRESIÓN 3D
+ARCHIVOS DE IMPRESIÓN 3D
    [📥 Descargar diseño 3D (Mini Pokedex.3mf)](Mini%20pokedex.3mf)
    
