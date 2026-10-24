@@ -18,7 +18,7 @@ Este proyecto es una Pokédex interactiva desarrollada para la placa de desarrol
 
 Este es un proyecto de fans para fans, que utiliza la **PokéAPI** y es sin fines de lucro.
 
-Este proyecto es una Pokédex interactiva desarrollada para la placa de desarrollo **TENSTAR TS-ESP32-S3** (equipada con pantalla TFT de 1.14", sensor de presión/temperatura BMP280 y sensor inercial QMI8658C). 
+Este proyecto es una Pokédex interactiva desarrollada para la placa de desarrollo ESP32 **TENSTAR DE 16 MB** 
 acá el enlace:
 [TENSTAR 16 mb  AliExpress](https://www.aliexpress.us/item/3256809703899160.html?spm=a2g0o.order_list.order_list_main.5.b3421802lGkqaE&gatewayAdapt=glo2usa)
 
@@ -65,4 +65,16 @@ Si vas a utilizar la herramienta interactiva en Python:
 
 ARCHIVOS DE IMPRESIÓN 3D
    [📥 Descargar diseño 3D (Mini Pokedex.3mf)](Mini%20pokedex.3mf)
+
+## 🕹️ Modos de Funcionamiento y Menú
+<p align="center">
+  <img src="fotos/E.jpg" alt="Mini Pokédex Foto E" width="45%">
+</p>
+💡 **Nota importante:** Para acceder al menú principal y cambiar de modo en cualquier momento, debes **apretar ambos botones juntos**.
+
+* **📖 Modo Manual:** Recorre la Pokédex ordenadamente paso a paso para consultar cada registro individual.
+* **🎲 Modo Random:** Selecciona y muestra un Pokémon completamente al azar.
+* **📊 Modo Sensor:** Muestra datos ambientales y de movimiento (temperatura, presión e inclinación) aprovechando los sensores integrados.
+
+---
    
