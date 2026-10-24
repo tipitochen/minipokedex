@@ -54,7 +54,7 @@ Si prefieres compilar y subir el proyecto de forma manual:
 ### Opción 2: Flasheo Automático con Python
 Si vas a utilizar la herramienta interactiva en Python:
 <p align="center">
-  <img src="fotos/pi.PNG" alt="Mini Pokédex Foto D" width="45%">
+  <img src="fotos/PI.png" alt="Mini Pokédex Foto D" width="45%">
 </p>
 1. Conecta la placa ESP32-S3 a la PC mediante el cable USB-C.
 2. Ejecuta el archivo script para instalar automáticamente las dependencias necesarias:
