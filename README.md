@@ -77,4 +77,8 @@ ARCHIVOS DE IMPRESIÓN 3D
 * **📊 Modo WHO'S:** Mini juego de "¿Quien es este pokemon?"
 
 ---
+
+Pasate por mi Canal de youtube [TIPITOCHEN](youtube.com/@tipitochen/)
    
+suscribite de paso. 
+nos vemos en disney
