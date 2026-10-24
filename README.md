@@ -78,7 +78,7 @@ ARCHIVOS DE IMPRESIÓN 3D
 
 ---
 
-Pasate por mi Canal de youtube [TIPITOCHEN](youtube.com/@tipitochen/)
+Pasate por mi Canal de youtube [TIPITOCHEN](https://www.youtube.com/@tipitochen/)
    
 suscribite de paso. 
 nos vemos en disney
